@@ -10,8 +10,7 @@ public class Hello extends HttpServlet {
 
    public void init() throws ServletException {
       // Do required initialization
-      message = "Hello World: Raj Ardham is here and this application is running inside Azure VM & inside docker container \
-		 This has been more update than regular";
+      message = "Hello World: Raj Ardham is here and this application is running inside Azure VM & inside docker container";
    }
 
    public void doGet(HttpServletRequest request, HttpServletResponse response)
