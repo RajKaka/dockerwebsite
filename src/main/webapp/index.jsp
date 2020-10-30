@@ -4,5 +4,6 @@
 <h2 style="color:red">This is Red Color</h2>
 <h2 style="color:green">This is Blue Color</h2>
 <h2 style="color:red">This is also Red</h2> 
+<img src="../../files/mustang.jpg" alt="">
 </body>
 </html>
